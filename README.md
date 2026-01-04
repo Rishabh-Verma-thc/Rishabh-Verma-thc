@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rishabh Verma  
 
-🚀 **Data Analyst | Web Developer | AI & ML Enthusiast**  
+🚀 **Data Analyst | Passionate Web Developer | AI & ML Enthusiast**  
 I build data-driven projects, interactive dashboards, and practical web apps using Python, SQL, Power BI, and modern JavaScript tools.
 
 
