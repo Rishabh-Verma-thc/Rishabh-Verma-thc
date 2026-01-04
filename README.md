@@ -3,7 +3,6 @@
 🚀 **Data Analyst | Web Developer | AI & ML Enthusiast**  
 I build data-driven projects, interactive dashboards, and practical web apps using Python, SQL, Power BI, and modern JavaScript tools.
 
----
 
 ## 🔹 About Me  
 - 🎓 **B.Tech in Computer Science & Engineering (2020–2024)**  
@@ -11,7 +10,6 @@ I build data-driven projects, interactive dashboards, and practical web apps usi
 - 🧠 Experience with **Machine Learning, APIs, and end-to-end projects**  
 - 🛠️ Focused on turning **raw data into clear insights and usable products**
 
----
 
 ## 🔧 Tech Stack  
 
@@ -36,7 +34,6 @@ I build data-driven projects, interactive dashboards, and practical web apps usi
 - React  
 - APIs (Weather, Geolocation, REST APIs)
 
----
 
 ## 📌 Featured Projects  
 
